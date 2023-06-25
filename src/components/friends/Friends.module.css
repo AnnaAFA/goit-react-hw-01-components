@@ -1,0 +1,18 @@
+.item {
+  display: flex;
+  align-items: center;
+}
+
+.status {
+  width: 15px;
+  height: 15px;
+  border-radius: 50%;
+}
+
+.true {
+  background-color: green;
+}
+
+.false {
+  background-color: red;
+}
